@@ -1,0 +1,11 @@
+1. head, body, article.
+2. <ol>/<ul>
+3. não, é uma linguagem de marcação, pois não pode criar funcionalidades dinâmicas.
+4.<h1>
+5. 
+6.search , time , URL.
+7. HTML4 só podem armazenar dados temporários no cache do navegador, enquanto as páginas Web baseadas em HTML5 também podem utilizar bancos de dados SQL Web e cache de aplicativos.
+8. uma intrnção para sinalizar, qual verção do html.
+9. de <h1> a <h6>, muda o tamanho, e prioridade de ordem.
+10. no <body>, pois é onde se encontra o conteudo.
+11. get and post.
